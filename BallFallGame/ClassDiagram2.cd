@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CameraFollow" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAACAAAQAAIAAAAAAAAAAAAAAAAAQAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\CameraFollow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tags" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAEAIACAAAAAABAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Custom\Tags.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FloatingText" Collapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAACCAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\FloatingText\FloatingText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FloatingTextController" Collapsed="true">
+    <Position X="7.5" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIACCAAAAAAAAAAAAACAACAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FloatingText\FloatingTextController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Helix" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAgEEAAAAAAAAAAAAQAAAAAAAEAAAAEE=</HashCode>
+      <FileName>Assets\Scripts\Helix\Helix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HelixRing" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAABAAAAACAAAAAAAAAQEAAEAAAKAA=</HashCode>
+      <FileName>Assets\Scripts\Helix\HelixRing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RotateHelix" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Helix\RotateHelix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelManager" Collapsed="true">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAgAQACAgKEAoAAABACKAAIEABAABQAAAAAAAIAI=</HashCode>
+      <FileName>Assets\Scripts\LevelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAQAgICABCAAAQAAAAgIAAAAIAAAAAABQAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Manager\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundManager" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAAAAAAAAAAQAAAAEAEAAAwAAAAIAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Manager\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BallContext" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAgAgAAAAAAAAgAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Strategy\BallContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BallController" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAACiAAAgAMAAAAAgAAAACAAAAIQAAAAABAgAA=</HashCode>
+      <FileName>Assets\Scripts\Strategy\BallController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BallStrategy" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAggAAMBAAAAIgACAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\Strategy\BallStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlutteringBall" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Strategy\FlutteringBall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GravityBall" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Strategy\GravityBall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NormalBall" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Strategy\NormalBall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="HelixMode" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Helix\Helix.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>
